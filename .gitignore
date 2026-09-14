@@ -219,4 +219,8 @@ __marimo__/
 
 /Lumina Co CRM
 
+# Data files (too large / not meant for version control)
+/customers.csv
+/transactions.csv
+
 *.png
